@@ -1,0 +1,4 @@
+[INFO ] 2026-09-26 22:17:58.891 [main] Log - for log only
+[DEBUG] 2026-09-26 22:17:58.898 [main] Log - for debug
+[ERROR] 2026-09-26 22:17:58.898 [main] Log - error msg
+[WARN ] 2026-09-26 22:17:58.899 [main] Log - warning msg
